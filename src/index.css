@@ -4,9 +4,12 @@
     max-width: 450px; 
     max-height: 250px; 
     object-fit: cover; 
+<<<<<<< HEAD
 }
 
 .img-carousel {
     max-height: 300px;
     object-fit: cover; 
+=======
+>>>>>>> 232ea11b93ebc3094309635c625d26884c0f4aa9
 }
