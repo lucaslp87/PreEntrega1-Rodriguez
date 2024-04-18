@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../../index.css'
@@ -53,16 +52,3 @@ function HomeComponent() {
 }
 
 export default HomeComponent;
-=======
-import React from 'react'
-
-function HomeComponent() {
-  return (
-    <div>
-      <p>Home</p>
-    </div>
-  )
-}
-
-export default HomeComponent
->>>>>>> 232ea11b93ebc3094309635c625d26884c0f4aa9

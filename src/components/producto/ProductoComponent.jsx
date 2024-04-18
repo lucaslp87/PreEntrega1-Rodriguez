@@ -21,7 +21,7 @@ function ProductoComponent() {
         })
     }, [])
 
-  return (
+return (
     <div>
         <div className="card text-bg-dark my-3 mx-auto" style={{maxWidth: "540px"}}>
             <div className="row g-0">
@@ -41,7 +41,7 @@ function ProductoComponent() {
             </div>
         </div>
     </div>
-  )
+)
 }
 
 export default ProductoComponent
