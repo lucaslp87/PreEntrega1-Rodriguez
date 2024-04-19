@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Coderhouse - proyecto React JS
 ## E-commerce
 
@@ -41,19 +40,3 @@ El usuario podrá buscar uno o más productos por categoría, seleccionarlos par
 ### Autor/es
 
 _Lucas Iván Rodriguez_
-
-
-
-
-
-
-=======
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 232ea11b93ebc3094309635c625d26884c0f4aa9
